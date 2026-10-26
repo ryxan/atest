@@ -1,0 +1,10 @@
+Baltop:
+  Command: baltop
+  Permission: bank.baltop
+  Info:
+  - <page>
+  - force
+  Argument:
+    Force:
+      Command: force
+      Permission: bank.baltop.force
